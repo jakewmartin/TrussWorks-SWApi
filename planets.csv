@@ -1,0 +1,11 @@
+name,rotation_period,orbital_period,diameter,climate,gravity,terrain,surface_water,population,residents,films,created,edited,url
+ttps://swapi.dev/api/people/68/', 'https://swapi.dev/api/people/81/']","grasslands, mountains",2000000000,196349540.84936208,12500,https://swapi.dev/api/planets/2/
+5,Bespin,temperate,['https://swapi.dev/api/people/26/'],gas giant,6000000,0.0,118000,https://swapi.dev/api/planets/6/
+8,Coruscant,temperate,"['https://swapi.dev/api/people/34/', 'https://swapi.dev/api/people/55/', 'https://swapi.dev/api/people/74/']","cityscape, mountains",1000000000000,0.0,12240,https://swapi.dev/api/planets/9/
+4,Dagobah,murky,[],"swamp, jungles",0,19907644.327267803,8900,https://swapi.dev/api/planets/5/
+6,Endor,temperate,['https://swapi.dev/api/people/30/'],"forests, mountains, lakes",30000000,6034371.169015274,4900,https://swapi.dev/api/planets/7/
+3,Hoth,frozen,[],"tundra, ice caves, mountain ranges",0,162860163.16209486,7200,https://swapi.dev/api/planets/4/
+9,Kamino,temperate,"['https://swapi.dev/api/people/22/', 'https://swapi.dev/api/people/72/', 'https://swapi.dev/api/people/73/']",ocean,1000000000,1221697524.579753,19720,https://swapi.dev/api/planets/10/
+7,Naboo,temperate,"['https://swapi.dev/api/people/3/', 'https://swapi.dev/api/people/21/', 'https://swapi.dev/api/people/35/', 'https://swapi.dev/api/people/36/', 'https://swapi.dev/api/people/37/', 'https://swapi.dev/api/people/38/', 'https://swapi.dev/api/people/39/', 'https://swapi.dev/api/people/42/', 'https://swapi.dev/api/people/60/', 'https://swapi.dev/api/people/61/', 'https://swapi.dev/api/people/66/']","grassy hills, swamps, forests, mountains",4500000000,55377884.14721765,12120,https://swapi.dev/api/planets/8/
+0,Tatooine,arid,"['https://swapi.dev/api/people/1/', 'https://swapi.dev/api/people/2/', 'https://swapi.dev/api/people/4/', 'https://swapi.dev/api/people/6/', 'https://swapi.dev/api/people/7/', 'https://swapi.dev/api/people/8/', 'https://swapi.dev/api/people/9/', 'https://swapi.dev/api/people/11/', 'https://swapi.dev/api/people/43/', 'https://swapi.dev/api/people/62/']",desert,200000,3440553.6790888687,10465,https://swapi.dev/api/planets/1/
+2,Yavin IV,"temperate, tropical",[],"jungle, rainforests",1000,26148103.97435857,10200,https://swapi.dev/api/planets/3/
